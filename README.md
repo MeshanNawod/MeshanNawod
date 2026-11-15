@@ -2,6 +2,8 @@
 
 # Meshan Nawod
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Exploring+software+and+systems;Building+automation+and+web+projects;Learning+by+making+things+work" alt="Animated text: exploring software and systems, building automation and web projects, learning by making things work" />
+
 ### Software development · Systems automation · Networking · Web projects
 
 Building practical projects, exploring how systems work, and learning by shipping code.
