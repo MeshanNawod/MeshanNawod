@@ -16,7 +16,7 @@
 - 💻 **Web Developer (Trainee)** at the Faculty of Science Web Committee (Working Student Assistantship Programme, 2026)
 - 💰 **Junior Treasurer** of Vibhava 2026 · Batch Coordinator for Science Batch 22 at Vibhava 2025
 - 🎤 **Science Communicator** at Research Café, International Week 2026 (Certificate of Appreciation)
-- ✍️ Editor of **[PhyBits](https://upps.soc.pdn.ac.lk/articles/phybits)** (80+ physics news summaries), The Physical Society, University of Peradeniya
+- ✍️ Editor of **[PhyBits](https://upps.soc.pdn.ac.lk/articles/phybits)** (100+ physics news summaries), The Physical Society, University of Peradeniya
 - 🎨 Graphic and 3D designer: **Photoshop · Illustrator · Blender**
 - 🤝 Volunteer on Rotaract (Equinox '25), Leo and Abhina projects
 
