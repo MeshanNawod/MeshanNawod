@@ -25,9 +25,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/MeshanNawod/smart-attendance-management-system_v_3"><img src="https://raw.githubusercontent.com/MeshanNawod/smart-attendance-management-system_v_3/master/assets/sentinel_swarm_logo.svg" alt="Sentinel Swarm · Smart Attendance" width="180"></a><br><b><a href="https://github.com/MeshanNawod/smart-attendance-management-system_v_3">Sentinel Swarm · Smart Attendance</a></b><br>
+<a href="https://meshannawod.github.io/smart-attendance-management-system_v_3/"><img src="https://raw.githubusercontent.com/MeshanNawod/smart-attendance-management-system_v_3/master/docs/images/admin-dashboard.png" alt="Sentinel Swarm · Smart Attendance" width="100%"></a><br><b><a href="https://github.com/MeshanNawod/smart-attendance-management-system_v_3">Sentinel Swarm · Smart Attendance</a></b><br>
 <sub>Multi-modal attendance (fingerprint, RFID, face, voice, QR) with ESP32 and Raspberry Pi nodes and a PHP/MySQL dashboard. Exhibited at <b>Pera Nexus 2026</b>.</sub><br>
-<a href="https://github.com/MeshanNawod/smart-attendance-management-system_v_3">Code</a>
+<a href="https://github.com/MeshanNawod/smart-attendance-management-system_v_3">Code</a> · <a href="https://meshannawod.github.io/smart-attendance-management-system_v_3/"><b>Project website ↗</b></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://meshannawod.github.io/desktop-waifu/"><img src="https://raw.githubusercontent.com/MeshanNawod/desktop-waifu/main/docs/images/hero.png" alt="DesktopWaifu" width="100%"></a><br><b><a href="https://github.com/MeshanNawod/desktop-waifu">DesktopWaifu</a></b><br>
