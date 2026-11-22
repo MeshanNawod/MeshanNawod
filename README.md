@@ -140,3 +140,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=MeshanNawod&label=Profile%20views&color=7c5cff&style=flat)](https://github.com/MeshanNawod)
 
 </div>
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).
